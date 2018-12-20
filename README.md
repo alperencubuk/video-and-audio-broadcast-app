@@ -34,7 +34,7 @@ This is simple stream app written with Java. Used Client/Server architecture. Vi
 
 ### Standalone Audio/Video Broadcast:
 
-* Audio and Video stream can work standalone. All classes have main function. 
+* Audio and Video stream can work standalone. All classes have main method.
 * Use AudioServer.java and AudioClient.java in audio package for stream only audio.
 * Use WebcamServer.java and WebcamClient.java in webcam package for stream only video.
 
