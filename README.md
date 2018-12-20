@@ -44,4 +44,4 @@ This is simple stream app written with Java. Client/Server architecture and sock
 
 ---
 
-**Alperen Çubuk**
+**Alperen Cubuk**
