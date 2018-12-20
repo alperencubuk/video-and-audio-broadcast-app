@@ -2,7 +2,7 @@
 
 ### Summary:
 
-This is simple stream app written with Java. Used Client/Server architecture. Video and audio captured Server's webcam and microphone. Clients can watch Server's stream.
+This is simple stream app written with Java. Client/Server architecture and sockets used. Video and audio captured Server's webcam and microphone. Clients can watch Server's stream.
 
 ###   Requirements:
 * Webcam and Microphone.
